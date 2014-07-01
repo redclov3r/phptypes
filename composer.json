@@ -1,0 +1,15 @@
+{
+    "name": "redclover/phptypes",
+    "description": "Better PHP Types",
+    "authors": [
+        {
+            "name": "Philipp Kreutzer",
+            "email": "philipp@3digitalarts.de"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "*",
+        "theseer/autoload": "*"
+    },
+    "minimum-stability": "dev"
+}
